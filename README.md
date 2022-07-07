@@ -16,7 +16,7 @@ Recently, I'm learning to use React Native combined with Google Firebase to buil
 `React`                 :star::star::star::star:  
 
 `AWS`  
-    `Amplify` :star::star::star:star:
+    `Amplify` :star::star::star::star:
 
 `Google Tag Manger`     :star::star::star:  
 `Google Analytics`      :star::star:  

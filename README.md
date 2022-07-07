@@ -6,8 +6,17 @@ I'm experienced in developing full-stack web apps with modern technologies and t
 I use Figma to do prototyping and hi-fi designs for my apps. I like to build apps with a design system and tokens bridging the design and dev.  
 Recently, I'm learning to use React Native combined with Google Firebase to build scalable, multi-platform mobile apps.
 
-### Techs I'm Proficient In  
+### Techs I'm Proficient In
 **Design / Prototyping**  
-`React` :star:
+`Figma`                 :star::star:  
 
 **Web Development**
+`HTML5`                 :star::star::star::star:  
+`JavaScript`            :star::star::star::star:  
+`React`                 :star::star::star::star:  
+
+`AWS`  
+    `Amplify` :star::star::star:star:
+
+`Google Tag Manger`     :star::star::star:  
+`Google Analytics`      :star::star:  
